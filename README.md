@@ -1,5 +1,5 @@
 
-## Project UI Designe
+## Project UI Design
 
 ![UI Design](public/images/Task-4-Design-UI.PNG)
 
@@ -24,4 +24,4 @@
 
 ## Project Live Link
 
-[Car Zone Live Link Here](https://react-with-tapascript-task-3.vercel.app/)
+[Live Link Here](https://react-with-tapascript-task-4.vercel.app/)
